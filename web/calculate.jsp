@@ -44,6 +44,6 @@
         }
     %>
     <br><br>
-    <a href="form.jsp">Go Back</a>
+    <a href="index.html">Go Back</a>
 </body>
 </html>
